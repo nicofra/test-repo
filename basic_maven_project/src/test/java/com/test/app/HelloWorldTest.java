@@ -9,7 +9,7 @@ public class HelloWorldTest {
 	@Test
 	public void helloWorldTest() {
 
-		assertEquals("Hello World", HelloWorld.print());
+		assertEquals("Hello Worl", HelloWorld.print());
 		
 	}
 	
